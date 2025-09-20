@@ -1,5 +1,5 @@
 {
-  "extends": ["stylelint-config-standard", "stylelint-config-tailwindcss"],
+  "extends": ["stylelint-config-standard"],
   "plugins": ["stylelint-order"],
   "overrides": [
     {
